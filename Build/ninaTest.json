@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ninaTest.data.unityweb",
+"asmCodeUrl": "ninaTest.asm.code.unityweb",
+"asmMemoryUrl": "ninaTest.asm.memory.unityweb",
+"asmFrameworkUrl": "ninaTest.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#BFBFBF"
+}
